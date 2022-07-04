@@ -5,7 +5,7 @@ public class Task5 {
         double r = 4;
         double pi = Math.PI;
         double areaOfCircle = pi * Math.pow(r, 2);
-        double lengthOfCircle = 2 * pi + r;
+        double lengthOfCircle = 2 * pi * r;
         System.out.println(areaOfCircle + "\n" + lengthOfCircle);
 
     }
